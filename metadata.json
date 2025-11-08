@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Phuc Animation - AI Character Separator",
+  "description": "An application that uses Gemini AI to automatically separate parts of a cartoon character from an image for animation and design purposes.",
+  "requestFramePermissions": []
+}
